@@ -1,21 +1,5 @@
-# Bem-vindo ao Meu Perfil do GitHub
+I'm Simon, a self-taught developer.
 
-Olá! Bem-vindo ao meu perfil do GitHub, onde compartilho projetos, experimentos e aprendizados.
+My interest is to learn as much computer science as I can. Although I have little knowledge about most stuff, I've worked on tons of small and diverse projects and played around with lots of cool tools in the past, and I'm eager to do & learn more!
 
-## Sobre Mim
-
-- 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
-
-## Interesses
-
-- 💻 Desenvolvimento de software
-- 🌐 Desenvolvimento web
-- 🎮 Desenvolvimento de jogos
-
-## Como Entrar em Contato
-
-Você pode entrar em contato comigo por meio das seguintes plataformas
-
-- [Discord](thinsider)
-
-Fique à vontade para explorar meus repositórios e projetos. Se tiver alguma pergunta ou sugestão, não hesite em me contatar.
+I also like creating projects with new people.
